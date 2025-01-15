@@ -6,3 +6,5 @@
 - 👯 I’m looking to collaborate on making local business websites.
 - 😄 Hobbies: Gaming, Basketball, Motocycle, Doggies, and more.
 - 💬 Yo hablo Español。Bilingual Spanish. 
+
+Samsung
