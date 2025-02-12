@@ -1,7 +1,7 @@
 # Hello!
 ## Who is Mike JoneZ
 
-- 🔭 I like to Code with Front End
+- 🔭 I like to Code with Front End, Back End, and DevOps & AI
 - 🌱 Tell me if you need help with your code; Teaching is a great way to learn.
 - 👯 I’m looking to collaborate on making local business websites.
 - 😄 Hobbies: Gaming, Basketball, Motocycle, Doggies, and more.
